@@ -1,0 +1,5 @@
+# compiled output
+/functions/lib
+
+# dependencies
+/functions/node_modules
